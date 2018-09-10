@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/PromiseKit/Extensions/Foundation/Sources/NSURLSession+AnyPromise.m"
+            timestampString = "558005406.477335"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "-promiseDataTaskWithRequest:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__55-[NSURLSession(PromiseKit) promiseDataTaskWithRequest:]_block_invoke_2"
+                  moduleName = "PromiseKit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/Krunal/Projects/BitBucket/MVVM/Pods/PromiseKit/Extensions/Foundation/Sources/NSURLSession+AnyPromise.m"
+                  timestampString = "558253550.771054"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "275">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__55-[NSURLSession(PromiseKit) promiseDataTaskWithRequest:]_block_invoke_3"
+                  moduleName = "PromiseKit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/Krunal/Projects/BitBucket/MVVM/Pods/PromiseKit/Extensions/Foundation/Sources/NSURLSession+AnyPromise.m"
+                  timestampString = "558253550.775692"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__destroy_helper_block_"
+                  moduleName = "PromiseKit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/Krunal/Projects/BitBucket/MVVM/Pods/PromiseKit/Extensions/Foundation/Sources/NSURLSession+AnyPromise.m"
+                  timestampString = "558253550.780151"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
